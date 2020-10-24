@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://joe_auz:Florida77@metempsychosisdb.ebafq.mongodb.net/MetempsychosisDB?retryWrites=true&w=majority",
-  "jwtSecret": "PLACEHOLDERFORNOW"
-}
