@@ -6,7 +6,7 @@ const app = express();
 // Connecting DB
 connectDB();
 
-// init middleware
+// Initialize Middleware
 app.use(express.json({ extended: false }));
 
 // basic response
