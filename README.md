@@ -2,4 +2,4 @@
 A website for the Metempsychosis D&amp;D group!
 
 
-Currently under development. Check back for updates!
+This has been archived. Please go to my profile to find the current project!
